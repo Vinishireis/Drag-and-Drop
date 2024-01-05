@@ -6,4 +6,3 @@ Drag and drop is a feature that allows users to click and hold the mouse button 
 
 ![Drag and Drop](Drag-and-Drop.png)
 
-<video src="05.01.2024_16.24.31_REC.mp4" controls title="Title"></video>
